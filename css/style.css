@@ -1,3 +1,27 @@
 img{
     border-radius: 50%;
 }
+
+body{
+    background: #f5f0e3;
+}
+
+h1{
+    color: #40bfc1;
+    font-family: Consolas, serif;
+}
+
+h3{
+    color: #2e64c1;
+    font-family: Consolas, serif;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: black;
+    border-width: 5px;
+    height: 2px;
+    width: 15%;
+}
+
